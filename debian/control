@@ -1,0 +1,13 @@
+Source: flannel
+Section: admin
+Priority: extra
+Maintainer: YuviPanda <yuvipanda@wikimedia.org>
+Build-Depends: debhelper (>= 9), golang
+Standards-Version: 3.9.5
+Homepage: https://github.com/coreos/flannel
+Vcs-Browser: https://github.com/wikimedia/operations-debs-flannel
+
+Package: flannel
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: An etcd backed overlay network for containers

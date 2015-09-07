@@ -1,0 +1,6 @@
+flannel (0.5.3-1) unstable; urgency=low
+
+  * Initial Release.
+  * Import of v0.5.3 from upstream, no other changes
+
+ -- yuvipanda <yuvipanda@wiimedia.org>  Mon, 07 Sep 2015 18:53:27 +0200
