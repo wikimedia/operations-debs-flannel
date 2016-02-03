@@ -1,3 +1,9 @@
+flannel (0.5.5-3) unstable; urgency=low
+
+  * Import of v0.5.5
+
+ -- yuvipanda <yuvipanda@wikimedia.org>  Tue, 02 Feb 2015 18:53:27 +0200
+
 flannel (0.5.3-1) unstable; urgency=low
 
   * Initial Release.
