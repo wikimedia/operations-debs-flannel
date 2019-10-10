@@ -1,3 +1,14 @@
+flannel (0.5.5-4) unstable; urgency=medium
+
+  * [3eae911] src:flannel: bump debhelper compat to 12
+  * [c649c66] src:flannel: add debian/source/format file
+  * [5ef43d6] src:flannel: add extended description
+  * [b400119] src:flannel: update priority
+  * [e05ebb2] d/copyright: use https in the URL
+  * [27185ff] src:flannel: integrate changes from Makefile
+
+ -- Arturo Borrero Gonzalez <aborrero@wikimedia.org>  Thu, 10 Oct 2019 15:07:15 +0200
+
 flannel (0.5.5-3) unstable; urgency=low
 
   * Import of v0.5.5
