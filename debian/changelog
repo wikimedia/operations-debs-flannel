@@ -1,4 +1,4 @@
-flannel (0.5.5-4) unstable; urgency=medium
+flannel (0.5.5-4) buster-wikimedia; urgency=medium
 
   * [3eae911] src:flannel: bump debhelper compat to 12
   * [c649c66] src:flannel: add debian/source/format file
