@@ -19,7 +19,10 @@ include /usr/share/dpkg/default.mk
 
 # main packaging script based on dh7 syntax
 %:
-	dh $@ 
+	dh $@
 
 override_dh_dwz:
 	# do nothing!
+
+override_dh_auto_build:
+	./build
