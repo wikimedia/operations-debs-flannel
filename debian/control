@@ -2,7 +2,7 @@ Source: flannel
 Section: admin
 Priority: extra
 Maintainer: YuviPanda <yuvipanda@wikimedia.org>
-Build-Depends: debhelper (>= 9), golang
+Build-Depends: debhelper (>= 12), golang
 Standards-Version: 3.9.5
 Homepage: https://github.com/coreos/flannel
 Vcs-Browser: https://github.com/wikimedia/operations-debs-flannel
