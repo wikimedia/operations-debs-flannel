@@ -1,6 +1,6 @@
 Source: flannel
 Section: admin
-Priority: extra
+Priority: optional
 Maintainer: YuviPanda <yuvipanda@wikimedia.org>
 Build-Depends: debhelper (>= 12), golang
 Standards-Version: 3.9.5
