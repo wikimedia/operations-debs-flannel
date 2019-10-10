@@ -10,4 +10,6 @@ Vcs-Browser: https://github.com/wikimedia/operations-debs-flannel
 Package: flannel
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: An etcd backed overlay network for containers
+Description: etcd backed overlay network for containers
+ This package contains flannel, a network overlay used in some Kubernetes
+ deployments.
